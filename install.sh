@@ -18,4 +18,4 @@ read -p "VIM, Swiftlint, tree, trash and youtube-dl are now installed, press Ent
 read -p "Awesome VIM config is now installed, press Enter to continue, Control+C to quit"
 
 ~/.config/brew/quicklook.sh
-read -p "Quicklook plugins are now installed, press Enter to continue to finish
+read -p "Quicklook plugins are now installed, press Enter to continue to finish"
