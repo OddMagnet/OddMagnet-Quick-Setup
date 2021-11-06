@@ -1,7 +1,14 @@
 # Installation
+## Notes
+Other apps, e.g. iTerm2, might also store some files in the `~/.config` folder, this is completely fine
+
+## Prerequisites
+- A copy of this repository: `git clone https://github.com/OddMagnet/OddMagnet-Quick-Setup.git ~/.config`
+- Xcode and Developer Tools must be installed
+- For the best experience these [fonts]( https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k) have to be installed and configured for use (e.g. in iTerm2, see link for more information)
+
 ## Simple installation & Update
-Simply use the `install.sh` file in the base directory (type `~/.config/install.sh` in the terminal)
-The fonts from https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k have to be installed manually at this time.
+To use all of this as is, simply use the `install.sh` file in the base directory: `~/.config/install.sh`
 To update use the `update.sh` file in the base directory (type `~/.config/update.sh` in the terminal)
 
 ## Custom installation & Updates
@@ -37,7 +44,7 @@ Use `brew upgrade` to update
 To get some information about the packages use `brew info PACKAGE_NAME`
 
 ### VIM
-Using **Amir Salihefendic's** awesome VIM config, get it here `https://github.com/amix/vimrc`
+Using **Amir Salihefendic's** awesome VIM config, get it here https://github.com/amix/vimrc
 Or use `~/.config/vim/install.sh` to install it 
 and `~/.config/vim/update.sh` to update it
 
