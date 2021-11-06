@@ -68,6 +68,7 @@ This requires that brew is already installed, this will install:
 - tree 
 - trash 
 - youtube-dl  
+
 Use 
 
 	~/.config/brew/stuff.sh
