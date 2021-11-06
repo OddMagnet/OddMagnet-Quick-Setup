@@ -36,8 +36,7 @@ Use
 
 	~/.config/git/makeGlobal.sh
  
-to create the global gitignore file
-and 
+to create the global gitignore file and 
 
 	~/.config/git/update.sh
  
@@ -49,11 +48,11 @@ Use
 
 	~/.config/zsh/installConfig.sh
  
-to create the symlink necessary for the config to apply
+to create the symlink necessary for the config to apply  
 If zsh is already installed, overwrite the previous file and restart the terminal
 
 ### Powerlevel10k
-Make sure the necessary fonts are installed, see [Prerequisites](#prerequisites)
+Make sure the necessary fonts are installed, see [Prerequisites](#prerequisites)  
 Then use 
 
 	~/.config/p10k/install.sh
@@ -73,8 +72,7 @@ Use
 
 	~/.config/brew/stuff.sh
  
-to install  
-Use 
+to install and 
 
 	brew upgrade
  
@@ -90,8 +88,7 @@ Or use
 
 	~/.config/vim/install.sh
  
-to install it  
-and 
+to install it and 
 
 	~/.config/vim/update.sh
  
@@ -112,8 +109,7 @@ Use
 
 	~/.config/brew/quicklook.sh
  
-to install  
-Use 
+to install and 
 
 	brew upgrade
  
