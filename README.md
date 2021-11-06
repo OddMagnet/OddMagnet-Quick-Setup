@@ -73,24 +73,24 @@ Use
 
 	~/.config/brew/stuff.sh
  
-to install
+to install  
 Use 
 
 	brew upgrade
  
-to update
+to update  
 To get some information about the packages use 
 
 	brew info PACKAGE_NAME
 
 
 ### VIM
-Using **Amir Salihefendic's** awesome VIM config, get it here https://github.com/amix/vimrc
+Using **Amir Salihefendic's** awesome VIM config, get it here https://github.com/amix/vimrc  
 Or use 
 
 	~/.config/vim/install.sh
  
-to install it 
+to install it  
 and 
 
 	~/.config/vim/update.sh
@@ -107,11 +107,12 @@ Note: the first time those plugins are used there will be a system message askin
 - `quicklook-csv`, enables quicklook for csv files
 - `quicklook-json`, enables quicklook for json files
 - `webpquicklook`, enables quicklook for webp
+
 Use 
 
 	~/.config/brew/quicklook.sh
  
-to install
+to install  
 Use 
 
 	brew upgrade
