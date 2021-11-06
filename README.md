@@ -13,7 +13,7 @@ Other apps, e.g. iTerm2, might also store some files in the `~/.config` folder, 
 ## Simple installation & Update
 To use all of this as is, simply use the `install.sh` file in the base directory:
 
-	~/.config/install.sh`
+	~/.config/install.sh
     
 To update use the `update.sh` file in the base directory:
 
@@ -67,7 +67,7 @@ This requires that brew is already installed, this will install:
 - swiftlint 
 - tree 
 - trash 
-- youtube-dl
+- youtube-dl  
 Use 
 
 	~/.config/brew/stuff.sh
