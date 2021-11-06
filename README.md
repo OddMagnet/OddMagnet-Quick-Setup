@@ -5,8 +5,8 @@ Other apps, e.g. iTerm2, might also store some files in the `~/.config` folder, 
 ## Prerequisites
 - A copy of this repository: 
 
-	git clone https://github.com/OddMagnet/OddMagnet-Quick-Setup.git ~/.config
-    
+	`git clone https://github.com/OddMagnet/OddMagnet-Quick-Setup.git ~/.config`
+        
 - Xcode and Developer Tools must be installed
 - For the best experience these [fonts]( https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k) have to be installed and configured for use (e.g. in iTerm2, see link for more information)
 
