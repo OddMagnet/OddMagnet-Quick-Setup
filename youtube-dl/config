@@ -1,0 +1,2 @@
+# Save all videos in the ~/Downloads directory
+-o ~/Downloads/%(title)s.%(ext)s

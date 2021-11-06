@@ -1,0 +1,15 @@
+[user]
+	name = OddMagnet
+	email = mibruenen@gmail.com
+[core]
+	editor = vim
+	excludesfile = /Users/michael/.config/git/.gitignore_global
+[init]
+	defaultBranch = main
+[color]
+	ui = true
+[alias]
+	co = checkout
+	cm = commit -am
+	gs = status
+	nuke = reset --hard
